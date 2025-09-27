@@ -2,26 +2,26 @@
     {
         "role": "owner",
         "name": "Zeutraxx",
-        "link": "#"
+        "link": "https://youtube.com/@zeutraxx"
     },
     {
         "role": "admin",
-        "name": "Zeutraxx",
+        "name": "dandicusdancifier",
         "link": "#"
     },
     {
         "role": "helper",
-        "name": "Zeutraxx",
+        "name": "decimal",
         "link": "#"
     },
     {
         "role": "trial",
-        "name": "Zeutraxx",
+        "name": "None",
         "link": "#"
     },
     {
-        "role": "dev",
-        "name": "Zeutraxx",
-        "link": "#"
+        "role": "dev"
+        "name": "Prometheus",
+        "link": "https://youtube.com/@prometheus_alt"
     }
 ]
